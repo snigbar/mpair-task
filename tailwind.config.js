@@ -26,6 +26,11 @@ export default {
         onePulse: "pulse 1s linear",
       },
     },
+    fontFamily: {
+      lobster: ["Lobster", "sans-serif"],
+      merriweather: ["Merriweather", "serif"],
+      tenorSans: ["Tenor Sans", "sans-serif"],
+    },
   },
   plugins: [],
 };
